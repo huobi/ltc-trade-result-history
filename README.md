@@ -9,7 +9,7 @@ first column 1378035025 for unix timestamp;
 
 second column 2 for trade type;(1 for buy, 2 for sell)
 
-third column 0.46 for amount of bitcoins;
+third column 0.46 for amount of litecoins;
 
 forth column 806.37 for the price;(CNY)
 
